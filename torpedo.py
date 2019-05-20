@@ -1,9 +1,4 @@
-#########################
-# FILE : torpedo.py
-#WRITER: mohamed ,mohamedag,314720293,mohamed,muhammad.krad,318577335
-#EXERCISE: intro2cs ex9 2016-2017
-#DESCRIPTION : class Torpedo
-########################
+
 
 TORPEDO_RADIOUS=4
 class Torpedo:
