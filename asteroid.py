@@ -1,9 +1,4 @@
-#########################
-# FILE : asteroid.py
-#WRITER: mohamed ,mohamedag,314720293,mohamed,muhammad.krad,318577335
-#EXERCISE: intro2cs ex9 2016-2017
-#DESCRIPTION : class Asteroid
-########################
+
 import random
 import math
 TO_RADIOUS_1=10
