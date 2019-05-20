@@ -1,9 +1,4 @@
-#########################
-# FILE : asteroids_main.py
-#WRITER: mohamed ,mohamedag,314720293,mohamed,muhammad.krad,318577335
-#EXERCISE: intro2cs ex9 2016-2017
-#DESCRIPTION : game loop
-########################
+
 from screen import Screen
 import sys
 from ship import Ship as sh
