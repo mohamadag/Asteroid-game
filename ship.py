@@ -1,9 +1,4 @@
-#########################
-# FILE : ship.py
-#WRITER: mohamed ,mohamedag,314720293,mohamed,muhammad.krad,318577335
-#EXERCISE: intro2cs ex9 2016-2017
-#DESCRIPTION : class Ship
-########################
+
 SHIP_LIFE=3
 SHIP_RADIOUS=1
 class Ship:
